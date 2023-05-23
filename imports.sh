@@ -1,9 +1,9 @@
 #!/bin/bash
 
 # Install required packages
-pip install boto3
-pip install matplotlib
-pip install pandas
+pip3 install boto3
+pip3 install matplotlib
+pip3 install pandas
 
 # Change directory to cloud_lab4
 cd cloud_lab4
